@@ -27,7 +27,7 @@ VALUES
     (14, 'Cutlery Set', 'Kitchen Supplies', 34.50, 40, 4.4),
     (15, 'Cozy Throw Blanket', 'Furnishings', 24.99, 100, 4.2);
 
-# I used SQL to query the above database, to obtain information regarding prices, summarize price data and to filter results by stock quantity. 
+#I used SQL to query the above database, to obtain information regarding prices, summarize price data and to filter results by stock quantity. 
 
 -- Order items by price.
 SELECT item_name, price
